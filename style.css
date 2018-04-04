@@ -1,31 +1,26 @@
 .row{
-margin: 0 0 0 0;
+    margin: 0 0 0 0;
 }
 
 .row p a{
-
-color:#fff
-
-
-
+    color:#fff
 }
 
 body {
-
-font-family: 'Open Sans', open;
-
+    font-family: 'Open Sans', open;
 }
 
 body{
-	width:100%;
+    width:100%;
 }
 
 div.img2 {
     margin: 5px;
     border: 1px solid #5facf3;
     float: left;
-	width: 552px;
+    width: 552px;
 }
+
 div.img2 img2{
     width: 100%;
     height: 403px;
@@ -39,7 +34,7 @@ div.img {
     margin: 5px;
     border: 1px solid #5facf3;
     float: left;
-	width: 300px;
+    width: 300px;
 }
 
 div.img:hover {
@@ -58,18 +53,14 @@ div.desc {
 }
 
 #section2  a {
-
-color:#29d846;
-
-
+    color:#29d846;
 
 }
 
-.center-div
-{
-  margin: 0 auto;
-  width: 400px;
-  height: 400px;
+.center-div {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
 }
 
 
